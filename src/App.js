@@ -1,8 +1,9 @@
+import { Form } from "./component/libraries/reactHookForm";
 
 function App() {
   return (
     <div>
-     hello
+     <Form />
     </div>
   );
 }
